@@ -1,5 +1,4 @@
 # Credit_Risk_Analysis
-# Credit Risk Analysis — SQL-First Assessment
 
 A data-driven credit risk analysis identifying the top 3 actionable insights from a portfolio of 28,495 borrower loans, using Python and pure SQL via SQLite.
 
